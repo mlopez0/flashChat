@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.flashchat",
+  "applicationId": "com.marvin.flashchat",
   "variantName": "processDebugResources",
   "elements": [
     {
